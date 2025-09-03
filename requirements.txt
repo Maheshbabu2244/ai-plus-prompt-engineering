@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+python-dotenv
+requests
+streamlit-lottie
+pandas
+python-docx
+Pillow
