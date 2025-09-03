@@ -30,8 +30,8 @@ To run this project locally, please follow these steps.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ai-innovation-hub.git](https://github.com/YOUR_USERNAME/ai-innovation-hub.git)
-cd ai-innovation-hub
+git clone [https://github.com/Maheshbabu2244/ai-plus-prompt-engineering](https://github.com/Maheshbabu2244/ai-plus-prompt-engineering)
+cd ai-plus-prompt-engineering
 ```
 
 ### 2. Create and Activate a Virtual Environment
